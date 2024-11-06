@@ -29,7 +29,7 @@ function App() {
             <li><a className="hover:bg-[#F9C1C4] p-2">About</a></li>
             <li><a className="hover:bg-[#F9C1C4] p-2">Contact</a></li>
           </ul>
-          <h1 className="text-black font-extrabold">Treat Street</h1>
+          <h1 className="text-black font-extrabold">Treat Bites</h1>
           <ul className="text-black flex flex-row gap-10 font-4xl font-bold">
             <li><a className="hover:text-[#F9C1C4]">Instagram</a></li>
             <li><a className="hover:text-[#F9C1C4]">Facebook</a></li>
